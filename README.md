@@ -100,7 +100,8 @@ index.html: Simple webpage served by Nginx.
 
 Challenges Faced
 
-
+## Screenshot
+![Webpage](images/screenshot.png)
 
 
 
